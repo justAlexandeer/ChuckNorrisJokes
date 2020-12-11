@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Сhuck Тorris Jokes</string>
+    <string name="title_home">Jokes</string>
+    <string name="title_web">Web</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button_home">reload</string>
+    <string name="editText_home">Count</string>
+</resources>
